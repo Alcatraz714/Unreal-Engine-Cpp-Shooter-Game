@@ -9,5 +9,5 @@ With this release, in-camera VFX is no longer just something to aspire to. A sle
 
 ![image](https://user-images.githubusercontent.com/72495317/143274619-905f0045-e6b5-4a35-927b-dbc9ade67275.png)
 
-## In Game Development Area - TESTTING PHASE - 1 
+## In Game Development Area - TESTING PHASE - 1 
 ### First, Player movement and the line trace for shooting...
